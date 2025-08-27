@@ -18,7 +18,6 @@
   - [🗂️ Estrutura do Projeto](#️-estrutura-do-projeto)
   - [🗺️ Roadmap](#️-roadmap)
   - [👥 Equipe](#-equipe)
-- [Aplicativo de Agendamento para Barbeiros](#aplicativo-de-agendamento-para-barbeiros)
 
 ---
 
@@ -88,32 +87,3 @@ O projeto foi norteado por:
 ## 👥 Equipe
 - Guilherme Castilho Machado
 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  # Aplicativo de Agendamento para Barbeiros
-
-  This is a code bundle for Aplicativo de Agendamento para Barbeiros. The original project is available at https://www.figma.com/design/CBe9xzcRUKr1je96KHVBgf/Aplicativo-de-Agendamento-para-Barbeiros.
