@@ -84,7 +84,7 @@ O projeto foi norteado por:
 ---
 
 ## 👥 Equipe
-- Guilherme Castilho Machado - 12021BSI225
+- Guilherme Castilho Machado
 
 
   
