@@ -52,6 +52,7 @@ O projeto foi norteado por:
 ---
 
 ## 🗂️ Estrutura do Projeto
+```bash
 /
 ├── public/             # Arquivos estáticos
 ├── src/
@@ -65,6 +66,7 @@ O projeto foi norteado por:
 ├── package.json        # Scripts e dependências
 ├── vite.config.js      # Configuração do Vite
 └── README.md
+```
 
 ---
 
