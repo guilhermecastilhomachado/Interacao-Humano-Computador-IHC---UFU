@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1735238400000",
+    "barberId": "1",
+    "barberName": "Carlos Mendes",
+    "barberAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "barberLocation": "Centro, São Paulo",
+    "clientId": "2",
+    "clientName": "João Silva",
+    "clientPhone": "(11) 88888-8888",
+    "clientEmail": "joao@cliente.com",
+    "services": ["Corte Masculino", "Barba"],
+    "servicePrices": {
+      "Corte Masculino": 35,
+      "Barba": 25
+    },
+    "totalPrice": 60,
+    "date": "2025-08-27",
+    "time": "14:00",
+    "duration": 60,
+    "status": "confirmed",
+    "createdAt": "2025-08-26T19:00:00.000Z",
+    "notes": "Cliente prefere corte clássico"
+  },
+  {
+    "id": "1735241000000",
+    "barberId": "1",
+    "barberName": "Carlos Mendes",
+    "barberAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "barberLocation": "Centro, São Paulo",
+    "clientId": "3",
+    "clientName": "Pedro Santos",
+    "clientPhone": "(11) 77777-7777",
+    "clientEmail": "pedro@email.com",
+    "services": ["Corte Masculino"],
+    "servicePrices": {
+      "Corte Masculino": 35
+    },
+    "totalPrice": 35,
+    "date": "2025-08-26",
+    "time": "15:30",
+    "duration": 30,
+    "status": "completed",
+    "createdAt": "2025-08-26T18:00:00.000Z"
+  },
+  {
+    "id": "1735243800000",
+    "barberId": "1",
+    "barberName": "Carlos Mendes",
+    "barberAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "barberLocation": "Centro, São Paulo",
+    "clientId": "4",
+    "clientName": "Lucas Oliveira",
+    "clientPhone": "(11) 66666-6666",
+    "clientEmail": "lucas@email.com",
+    "services": ["Corte Masculino", "Barba", "Sobrancelha"],
+    "servicePrices": {
+      "Corte Masculino": 35,
+      "Barba": 25,
+      "Sobrancelha": 10
+    },
+    "totalPrice": 70,
+    "date": "2025-08-28",
+    "time": "16:00",
+    "duration": 90,
+    "status": "confirmed",
+    "createdAt": "2025-08-26T20:00:00.000Z",
+    "notes": "Cliente novo, primeira visita"
+  }
+]
