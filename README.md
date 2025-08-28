@@ -86,4 +86,5 @@ O projeto foi norteado por:
 
 ## 👥 Equipe
 - Guilherme Castilho Machado
+- Guilherme Rimoldi Kameoka
 
